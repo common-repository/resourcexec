@@ -1,0 +1,733 @@
+
+msgid "%d Booking"
+msgid_plural "%d Bookings"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d Comment"
+msgid_plural "%d Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d Day"
+msgid_plural "%d Days"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d Hour"
+msgid_plural "%d Hours"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d Minute"
+msgid_plural "%d Minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d Modification"
+msgid_plural "%d Modifications"
+msgstr[0] ""
+msgstr[1] ""
+
+#  1 Resource, 12 Resources
+msgid "%d Resource"
+msgid_plural "%d Resources"
+msgstr[0] ""
+msgstr[1] ""
+
+#  short duration format in days, for example 4 d
+msgid "%d d"
+msgstr ""
+
+#  short duration format in hours, for example 2 hr
+msgid "%d hr"
+msgstr ""
+
+#  short duration format in minutes, for example 25 min
+msgid "%d min"
+msgstr ""
+
+#  short duration format in days, for example 4 d
+msgid "%s d"
+msgstr ""
+
+#  short duration format in hours, for example 2 hr
+msgid "%s hr"
+msgstr ""
+
+#  short duration format in minutes, for example 25 min
+msgid "%s min"
+msgstr ""
+
+msgid "1st"
+msgstr ""
+
+msgid "2nd"
+msgstr ""
+
+msgid "3rd"
+msgstr ""
+
+msgid "3rd From End"
+msgstr ""
+
+msgid "4th"
+msgstr ""
+
+msgid "4th From End"
+msgstr ""
+
+msgid "5th"
+msgstr ""
+
+msgid "5th From End"
+msgstr ""
+
+msgid "Access denied"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Active Resources"
+msgstr ""
+
+msgid "Add Comment"
+msgstr ""
+
+msgid "Add New Availability"
+msgstr ""
+
+msgid "Add New Comment"
+msgstr ""
+
+msgid "Add New Resource"
+msgstr ""
+
+msgid "Add New Resource Type"
+msgstr ""
+
+msgid "Add New Schedule"
+msgstr ""
+
+msgid "Add New User"
+msgstr ""
+
+msgid "Admin"
+msgstr ""
+
+msgid "Administrator Details"
+msgstr ""
+
+msgid "Agenda"
+msgstr ""
+
+#  duration, during all day
+msgid "All Day"
+msgstr ""
+
+msgid "All Resources"
+msgstr ""
+
+msgid "All Schedules"
+msgstr ""
+
+msgid "All Time"
+msgstr ""
+
+msgid "All Users"
+msgstr ""
+
+#  short April
+msgid "Apr"
+msgstr ""
+
+msgid "Archived Resources"
+msgstr ""
+
+msgid "Assign Resources"
+msgstr ""
+
+msgid "At least %s characters required"
+msgstr ""
+
+#  short August
+msgid "Aug"
+msgstr ""
+
+msgid "Authentication"
+msgstr ""
+
+msgid "Availability"
+msgstr ""
+
+msgid "Availability added"
+msgstr ""
+
+msgid "Availability deleted"
+msgstr ""
+
+msgid "Availability updated"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Base Availability For All Resources"
+msgstr ""
+
+msgid "Booking"
+msgstr ""
+
+msgid "Booking #%d of %d"
+msgstr ""
+
+msgid "Booking Duration"
+msgstr ""
+
+msgid "Booking added"
+msgstr ""
+
+msgid "Booking deleted"
+msgstr ""
+
+msgid "Booking updated"
+msgstr ""
+
+msgid "Bookings"
+msgstr ""
+
+msgid "Calendar"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Change Resource Type"
+msgstr ""
+
+msgid "Change To"
+msgstr ""
+
+msgid "Click To Proceed"
+msgstr ""
+
+msgid "Comment Visible To"
+msgstr ""
+
+msgid "Comment added"
+msgstr ""
+
+msgid "Comment deleted"
+msgstr ""
+
+msgid "Comment updated"
+msgstr ""
+
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+msgid "Comments"
+msgstr ""
+
+msgid "Confirm Delete"
+msgstr ""
+
+msgid "Confirm Password"
+msgstr ""
+
+msgid "Conflicts"
+msgstr ""
+
+msgid "Current Availability"
+msgstr ""
+
+msgid "Custom Range"
+msgstr ""
+
+msgid "Daily"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Date Format"
+msgstr ""
+
+msgid "Date Range"
+msgstr ""
+
+msgid "Date and Time"
+msgstr ""
+
+msgid "Day"
+msgstr ""
+
+msgid "Days"
+msgstr ""
+
+#  short December
+msgid "Dec"
+msgstr ""
+
+msgid "Default availability for all resources"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete Resources"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Display Name"
+msgstr ""
+
+msgid "Duration"
+msgstr ""
+
+msgid "Edit Availability"
+msgstr ""
+
+msgid "Edit Booking"
+msgstr ""
+
+msgid "Edit My Profile"
+msgstr ""
+
+msgid "Edit Schedule"
+msgstr ""
+
+msgid "Edit WordPress User Account"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+#  every weekdays, for example "Every Mon, Wed, Fri"
+msgid "Every %s"
+msgstr ""
+
+#  for example "Every 1st Tue of Every Month"
+msgid "Every %s of Every Month"
+msgstr ""
+
+msgid "Every Day"
+msgstr ""
+
+msgid "Every Year"
+msgstr ""
+
+msgid "Everyone"
+msgstr ""
+
+msgid "Exact Date"
+msgstr ""
+
+#  short February
+msgid "Feb"
+msgstr ""
+
+#  short Friday
+msgid "Fri"
+msgstr ""
+
+#  from date, for example From 1 Jun 2016
+msgid "From %s"
+msgstr ""
+
+msgid "From Date"
+msgstr ""
+
+msgid "From End"
+msgstr ""
+
+msgid "History"
+msgstr ""
+
+msgid "Hours"
+msgstr ""
+
+msgid "Installation"
+msgstr ""
+
+msgid "Is Person"
+msgstr ""
+
+msgid "It can not exceed %s characters in length"
+msgstr ""
+
+#  short January
+msgid "Jan"
+msgstr ""
+
+#  short July
+msgid "Jul"
+msgstr ""
+
+#  short June
+msgid "Jun"
+msgstr ""
+
+#  from end, e.g. last monday
+msgid "Last"
+msgstr ""
+
+msgid "Link To Resource"
+msgstr ""
+
+msgid "Link To User"
+msgstr ""
+
+msgid "Linked To Resource"
+msgstr ""
+
+msgid "Linked To User"
+msgstr ""
+
+msgid "Log In"
+msgstr ""
+
+msgid "Log In With"
+msgstr ""
+
+msgid "Log Out"
+msgstr ""
+
+msgid "Logged In Users"
+msgstr ""
+
+msgid "Login Details"
+msgstr ""
+
+msgid "Login details added"
+msgstr ""
+
+msgid "Login details updated"
+msgstr ""
+
+msgid "Lost your password?"
+msgstr ""
+
+#  short March
+msgid "Mar"
+msgstr ""
+
+#  short May
+msgid "May"
+msgstr ""
+
+msgid "Minutes"
+msgstr ""
+
+#  short Monday
+msgid "Mon"
+msgstr ""
+
+msgid "Month"
+msgstr ""
+
+msgid "Monthly"
+msgstr ""
+
+msgid "Months"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "New Booking"
+msgstr ""
+
+msgid "New Password"
+msgstr ""
+
+msgid "New User"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No Resources Assigned"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Not Active"
+msgstr ""
+
+msgid "Not Linked To Resource"
+msgstr ""
+
+msgid "Not Linked To User"
+msgstr ""
+
+msgid "Nothing"
+msgstr ""
+
+msgid "Nothing Yet"
+msgstr ""
+
+#  short November
+msgid "Nov"
+msgstr ""
+
+msgid "Number of bookings"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+#  this is an entry in the list of changes history of an object
+msgid "Object Created"
+msgstr ""
+
+#  short October
+msgid "Oct"
+msgstr ""
+
+msgid "Overlap"
+msgstr ""
+
+msgid "Owner"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Passwords don't match"
+msgstr ""
+
+#  next to last, e.g. penultimate monday
+msgid "Penultimate"
+msgstr ""
+
+msgid "Permanently"
+msgstr ""
+
+msgid "Print View"
+msgstr ""
+
+msgid "Recurrence"
+msgstr ""
+
+msgid "Remember Me"
+msgstr ""
+
+msgid "Repeat Until"
+msgstr ""
+
+msgid "Reports"
+msgstr ""
+
+msgid "Required field"
+msgstr ""
+
+msgid "Resource"
+msgstr ""
+
+msgid "Resource Type"
+msgstr ""
+
+msgid "Resource Types"
+msgstr ""
+
+msgid "Resource Utilization"
+msgstr ""
+
+msgid "Resource added"
+msgstr ""
+
+msgid "Resource deleted"
+msgstr ""
+
+msgid "Resource type added"
+msgstr ""
+
+msgid "Resource type deleted"
+msgstr ""
+
+msgid "Resource type updated"
+msgstr ""
+
+msgid "Resource updated"
+msgstr ""
+
+msgid "Resources"
+msgstr ""
+
+#  short Saturday
+msgid "Sat"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Schedule"
+msgstr ""
+
+msgid "Schedule added"
+msgstr ""
+
+msgid "Schedule deleted"
+msgstr ""
+
+msgid "Schedule updated"
+msgstr ""
+
+msgid "Schedules"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+#  short September
+msgid "Sep"
+msgstr ""
+
+msgid "Sequence"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Settings updated"
+msgstr ""
+
+msgid "Skip Notification Email"
+msgstr ""
+
+#  short Sunday
+msgid "Sun"
+msgstr ""
+
+msgid "Thank You"
+msgstr ""
+
+msgid "The %s field does not match the %s field"
+msgstr ""
+
+msgid "There are no free resources left to link to this user"
+msgstr ""
+
+msgid "There are no free users left to link to this resource"
+msgstr ""
+
+msgid "These values should differ from each other"
+msgstr ""
+
+msgid "This value is already used"
+msgstr ""
+
+#  short Thursday
+msgid "Thu"
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid "Time Format"
+msgstr ""
+
+msgid "Time Range"
+msgstr ""
+
+msgid "To Date"
+msgstr ""
+
+#  short Tuesday
+msgid "Tue"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Unlink From Resource"
+msgstr ""
+
+msgid "Unlink From User"
+msgstr ""
+
+#  until date, for example Until 1 Jun 2016
+msgid "Until %s"
+msgstr ""
+
+#  it refers to the upcoming time range
+msgid "Upcoming"
+msgstr ""
+
+msgid "Use Resource Types"
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "User added"
+msgstr ""
+
+msgid "User deleted"
+msgstr ""
+
+msgid "User updated"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Users"
+msgstr ""
+
+msgid "Valid email address required"
+msgstr ""
+
+#  short Wednesday
+msgid "Wed"
+msgstr ""
+
+msgid "Week"
+msgstr ""
+
+msgid "Week Starts On"
+msgstr ""
+
+msgid "Weekday"
+msgstr ""
+
+msgid "Weekdays"
+msgstr ""
+
+msgid "Weekly"
+msgstr ""
+
+msgid "Weeks"
+msgstr ""
+
+msgid "What should be done with resources of that type?"
+msgstr ""
+
+msgid "When"
+msgstr ""
+
+msgid "WordPress Role Mapping"
+msgstr ""
+
+msgid "Wrong username or password"
+msgstr ""
+
+msgid "Yearly"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "You do not have sufficient permissions to access this page"
+msgstr ""
+
+
